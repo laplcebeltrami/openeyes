@@ -2,7 +2,7 @@
 
 ## Public datasets for visual-state and cyclic-network analyses
 
-This inventory summarizes the public research resources identified for analyses of directed interactions and circulation in resting-state fMRI and EEG. It includes eyes-open and eyes-closed comparisons, blindness, sight recovery, and visual impairment. Availability was checked against dataset documentation and published studies on 13 November 2026.
+This inventory summarizes the public research resources identified for analyses of directed interactions and circulation in resting-state fMRI and EEG. It includes eyes-open and eyes-closed comparisons, blindness, sight recovery, and visual impairment. 
 
 The inventory contains **14 dataset entries: 6 rs-fMRI, 6 EEG, and 2 multimodal EEG–fMRI resources**.
 
